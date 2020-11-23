@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "51vIy2TCZQVT+fgBsHGMuSxTLZrCUYnMPJuYmaOP1BUj/kHvjXQ9bHCnyB7Bxc438W829XHYJ63JJluWRX1sRA==",
+  "dgSpecHash": "C0RGXPP+7ZUH61ftrw6A03Lq+I8FmhnIlsb5JvtBbT/xj1YSwYSMNFDUS+dPXXWWFAUvDRR+oj8vMwsn7HSNxg==",
   "success": true,
   "projectFilePath": "C:\\Users\\eX_Di\\git\\XamarinTraining\\TravelRecord\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\sqlite-net\\1.6.292\\sqlite-net.1.6.292.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
@@ -22,5 +26,26 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\xamarin.forms.maps\\4.8.0.1451\\xamarin.forms.maps.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl 1.1.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Bcl",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Net.Http 2.2.29' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

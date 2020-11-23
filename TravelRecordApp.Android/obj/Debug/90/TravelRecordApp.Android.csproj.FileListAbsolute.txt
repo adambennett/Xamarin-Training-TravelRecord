@@ -559,3 +559,8 @@ C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.
 C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\Plugin.Geolocator.dll
 C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationContinuousListener.java
 C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\src\crc649efb5bdbf2d8cfa5\GeolocationSingleListener.java
+C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\System.Net.Http.Extensions.dll
+C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\System.Net.Http.Primitives.dll
+C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\System.Net.Primitives.dll
+C:\Users\eX_Di\git\XamarinTraining\TravelRecord\TravelRecordApp\TravelRecordApp.Android\obj\Debug\90\android\assets\System.Runtime.InteropServices.dll

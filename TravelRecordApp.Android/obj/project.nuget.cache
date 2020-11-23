@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "H1YD/kTqZyLxa2c63ker13ROONXOy7ZM0I6KARtlWdDthPFTMInX7UgnqDVkCM5gPsp2m/Di0znrBdM8Llw5dw==",
+  "dgSpecHash": "wJzkgfErza86fdW+88f08tXdj22PghujIeNXG0fEPL2+nKJ93+KNXqY4DlxEAd9n3pIW3qk9SIx8xh1eyUrmhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\eX_Di\\git\\XamarinTraining\\TravelRecord\\TravelRecordApp\\TravelRecordApp.Android\\TravelRecordApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\eX_Di\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\sqlite-net\\1.6.292\\sqlite-net.1.6.292.nupkg.sha512",
     "C:\\Users\\eX_Di\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
